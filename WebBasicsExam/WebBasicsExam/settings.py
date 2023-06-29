@@ -65,7 +65,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'web_basics_exam',
         'USER': 'Tony',
-        'PASSWORD': 'tashaci',
+        'PASSWORD': 'uniquepassword123',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }

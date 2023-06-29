@@ -73,3 +73,4 @@ def fruit_delete(request, pk):
         'fruit': fruit
     }
     return render(request, 'fruit/delete-fruit.html', context)
+
